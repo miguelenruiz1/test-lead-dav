@@ -68,3 +68,6 @@ Hasta este punto se ha completado lo siguiente:
 - Prueba unitaria validando dicha lógica  
 
 Este avance sienta la base para continuar con el desarrollo de endpoints, integración con la base de datos y flujo de auditoría en siguientes etapas.
+
+
+Haciendo una prueba de gitflow
